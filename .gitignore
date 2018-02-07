@@ -1,0 +1,9 @@
+# Used for testing and debuging
+videos
+colours.py
+
+# Created during new builds
+build
+
+# Compiled python files
+*.pyc
